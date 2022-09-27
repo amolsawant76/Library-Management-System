@@ -1,0 +1,2 @@
+# Library-Management-System
+library management system usable by anyone even if they aren't adept at using computers. this is a web based project developed in eclipse IDE using JAVA and SpringBoot , JavaScript , Html, CSS and Bootstrap for front end and MYSQL for the database. This system can keep track of every book issued to every student accurately and easily along with the students info and fines(late fees) if applicable.
